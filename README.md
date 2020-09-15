@@ -19,4 +19,5 @@ Small Accounting Settlement Template(小口経理精算アプリテンプレー�
 - 接続設定を変更し保存した「PersonalCRM.xlsx」を指定し、テーブルの再設定を行います。
 
 #機能概要動画
+
 [![](http://img.youtube.com/vi/5FawBpjyO0s/0.jpg)](http://www.youtube.com/watch?v=5FawBpjyO0s "小口経理精算アプリ")
